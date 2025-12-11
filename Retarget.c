@@ -15,13 +15,9 @@
 
 #include <stdio.h>
 #include <rt_misc.h>
-
+#include "Retarget.h"
 #pragma import(__use_no_semihosting_swi)
-
-
-extern int sendchar (int c);
-extern int getkey   (void);
-
+#include "Serial.h"
 
 struct __FILE { int handle; /* Add whatever you need here */ };
 FILE __stdout;

@@ -1,7 +1,9 @@
 --cpu Cortex-M0
-".\objects\main.o"
 ".\objects\serial.o"
 ".\objects\retarget.o"
+".\objects\led.o"
+".\objects\key.o"
+".\objects\main.o"
 ".\objects\startup_lpc11xx.o"
 ".\objects\system_lpc11xx.o"
 --strict --scatter ".\Objects\try1.sct"

@@ -7,3 +7,8 @@
 .\objects\main.o: D:\Keil5_Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
 .\objects\main.o: D:\Keil5_Packs\Keil\LPC1100_DFP\1.4.1\Device\Include\LPC11xx\system_LPC11xx.h
 .\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: main.h
+.\objects\main.o: led.h
+.\objects\main.o: Serial.h
+.\objects\main.o: Retarget.h
+.\objects\main.o: key.h
