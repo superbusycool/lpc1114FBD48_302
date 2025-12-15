@@ -12,3 +12,5 @@
 .\objects\main.o: Serial.h
 .\objects\main.o: Retarget.h
 .\objects\main.o: key.h
+.\objects\main.o: GPIO.h
+.\objects\main.o: UART.h

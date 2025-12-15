@@ -5,5 +5,7 @@
 #include "Serial.h"
 #include "Retarget.h"
 #include "key.h"
+#include "GPIO.h"
+#include "UART.h"
 
 #endif // __MAIN_H___

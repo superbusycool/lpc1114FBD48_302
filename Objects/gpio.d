@@ -1,0 +1,10 @@
+.\objects\gpio.o: GPIO.c
+.\objects\gpio.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\gpio.o: D:\Keil5_Packs\Keil\LPC1100_DFP\1.4.1\Device\Include\LPC11xx\LPC11xx.h
+.\objects\gpio.o: D:\Keil5_Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0.h
+.\objects\gpio.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gpio.o: D:\Keil5_Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\gpio.o: D:\Keil5_Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\gpio.o: D:\Keil5_Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\gpio.o: D:\Keil5_Packs\Keil\LPC1100_DFP\1.4.1\Device\Include\LPC11xx\system_LPC11xx.h
+.\objects\gpio.o: GPIO.h
